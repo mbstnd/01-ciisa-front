@@ -5,7 +5,7 @@
 
 
 <p>
- Header y Menu Principal: Esta sección incluye un encabezado con el logo de la empresa y un menú principal que permite acceder a las diferentes secciones de la página facilitando la navegación del usuario por el sitio.
+ Header y Navbar : Incluye un encabezado con el logo de la empresa y un menú principal que permite acceder a las diversas secciones del sitio web. Al incluir enlaces directos en el menú a secciones como Home, Nuestros Servicios, Contáctenos y Nosotros, se facilita la navegación y la ubicación de la información relevante.
 </p>
  
 <p>
