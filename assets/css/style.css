@@ -5,20 +5,20 @@
 }
 
  img {
-    height: 40px; /* Ajusta la altura según tus necesidades */
-    width: auto; /* Mantiene la proporción del logo */
+    height: 40px; 
+    width: auto; 
 }
 
 
 /* Estilo para el contenedor home con imagen de fondo */
 .home-background {
     background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Sustituye 'ruta-a-tu-imagen.jpg' con la ruta real de tu imagen */
-    background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
-    background-position: center; /* Centra la imagen en el contenedor */
-    height: 100vh; /* Establece la altura del contenedor para que ocupe todo el viewport */
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
     text-align: center; 
-    display: flex; /* Utiliza flexbox para alinear el contenido */
-    flex-direction: column; /* Organiza los elementos en una columna */
+    display: flex; 
+    flex-direction: column; 
     justify-content: center; 
     opacity: 1;
 }
@@ -27,9 +27,9 @@
 
 /* Estilos para el título en la sección home */
 .text-in-home {
-    font-size: 3rem; /* Tamaño grande para el título */
-    margin-bottom: 0.5em; /* Espaciado debajo del título */
-    color: #6c6fff;
+    font-size: 3rem; 
+    margin-bottom: 0.5em; 
+    color: #c56f00;
     font-weight: 800;
     line-height: 1.5em;
 }
@@ -53,14 +53,13 @@
 }
 
 #about h2,
-
 #services h2,
 #services p {
   color: #333;
 }
 
 #about h3 {
-    color: #428ddd;
+    color: #c56f00;
 }
 
 
@@ -68,7 +67,6 @@
 #services h2,
 #services p {
   text-align: center;
-  margin-bottom: 20px;
 }
 
 /* Estilos generales para las tarjetas en todas las secciones */
@@ -90,7 +88,7 @@
 }
 
 .card-title {
-  color: #428ddd;
+  color: #c56f00;
   margin-bottom: 15px;
 }
 
@@ -144,7 +142,7 @@ footer i {
 
 footer i:hover {
   transform: scale(1.2);
-  color:#428ddd ;
+  color:#c56f00 ;
   transition: .3s;
 }
 
