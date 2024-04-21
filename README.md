@@ -17,7 +17,7 @@
 </p>
 
 <p>
- Contacto: Contiene un formulario de contacto que permite a los visitantes enviar consultas o solicitudes de información a la empresa. También incluye información de contacto adicional. 
+ Contacto: El formulario de contacto recopila información esencial del usuario, como su nombre, correo electrónico y mensaje. Cada campo del formulario tiene el atributo "required", lo que indica que es obligatorio completarlo antes de enviarlo. Al enviar el formulario, los datos proporcionados por el usuario se recopilan y se envían al servidor para su procesamiento posterior. Esta información permite a los visitantes del sitio web comunicarse con la empresa, ya sea para hacer consultas, solicitar información o enviar mensajes.
 </p>
 
 <p>
